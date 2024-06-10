@@ -1,6 +1,6 @@
-# Akanksha-Lokhande
+## Akanksha-Lokhande
 
-## Working as a Mentor @[AI Adventures Institute](https://www.aiadventures.in/)
+# Working as a Mentor @[AI Adventures Institute](https://www.aiadventures.in/)
 
 👋 Hello, I'm Akanksha, an AI enthusiast with a passion for cutting-edge technologies and a quick learner always eager to explore new horizons.
 
