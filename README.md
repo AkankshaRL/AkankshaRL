@@ -1,8 +1,6 @@
 ## Akanksha-Lokhande
 
-# Working as an ML Engineer @[AI Adventures Institute](https://www.aiadventures.in/)
-
-👋 Hello, I'm Akanksha, an AI enthusiast with a passion for cutting-edge technologies and a quick learner always eager to explore new horizons.
+👋 Hello, I'm Akanksha, an Artificial Intelligence and Machine Learning enthusiast with a passion for cutting-edge technologies and a quick learner always eager to explore new horizons.
 
 🧠 With a strong foundation in machine learning, deep learning, and natural language processing, I thrive on the dynamic challenges posed by the ever-evolving field of artificial intelligence.
 
