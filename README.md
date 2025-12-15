@@ -1,6 +1,6 @@
 ## Akanksha-Lokhande
 
-👋 Hello, I'm Akanksha, an Artificial Intelligence and Machine Learning enthusiast with a passion for cutting-edge technologies and a quick learner always eager to explore new horizons.
+👋 Hello, I'm Akanksha, a Data Scientist @ Neosoft Technologies and an Artificial Intelligence and Machine Learning enthusiast with a passion for cutting-edge technologies and a quick learner always eager to explore new horizons.
 
 🧠 With a strong foundation in machine learning, deep learning, and natural language processing, I thrive on the dynamic challenges posed by the ever-evolving field of artificial intelligence.
 
