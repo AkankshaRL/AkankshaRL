@@ -1,15 +1,27 @@
-## Akanksha-Lokhande
+## **Akanksha Lokhande**
 
-👋 Hello, I'm Akanksha, a Data Scientist @ Neosoft Technologies and an Artificial Intelligence and Machine Learning enthusiast with a passion for cutting-edge technologies and a quick learner always eager to explore new horizons.
+👋 Hello! I'm **Akanksha**, a **Data Scientist & Generative AI Engineer**, passionate about building intelligent systems that solve real-world problems using AI.
 
-🧠 With a strong foundation in machine learning, deep learning, and natural language processing, I thrive on the dynamic challenges posed by the ever-evolving field of artificial intelligence.
+🧠 I specialize in **Machine Learning, Generative AI, and Applied AI Systems**, with hands-on experience in taking models from experimentation to deployment. My work spans **LLMs, computer vision, OCR systems, and scalable AI APIs**.
 
-💡 Constantly seeking opportunities to broaden my knowledge and skills, I delve into diverse projects ranging from computer vision applications to language models and beyond.
+💡 I enjoy working at the intersection of **AI research and engineering**, where models meet production. I actively explore emerging technologies and translate them into practical solutions.
 
-🚀 Whether it's tinkering with neural networks, experimenting with new algorithms, or diving into data to uncover insights, I am driven by a relentless curiosity and a commitment to excellence.
+---
 
-🌟 Leveraging my adaptability and tenacity, I aim to contribute meaningfully to the AI community and collaborate on impactful projects that push the boundaries of what's possible.
+### 🔬 **Core Expertise**
 
-💼 Currently exploring exciting opportunities to apply my expertise and passion in AI to real-world problems, I am eager to connect with like-minded individuals and organizations who share my enthusiasm for innovation and progress.
+* **Generative AI & LLMs** – RAG systems, prompt engineering, LLM integrations
+* **Machine Learning** – Regression, classification, model evaluation, feature engineering
+* **Deep Learning** – Neural networks, computer vision pipelines
+* **OCR & Document AI** – PaddleOCR-based systems, document parsing, structured data extraction
+* **Data Engineering for AI** – Data preprocessing, pipelines, model-ready datasets
+* **API Development** – FastAPI-based ML/AI microservices
+* **Experimentation & Prototyping** – Rapid PoCs, model benchmarking
 
-📫 Feel free to reach out to me for discussions, collaborations, or just to geek out over the latest advancements in AI!
+---
+
+🚀 I’m driven by curiosity and enjoy tackling challenging problems — from building **LLM-powered systems** to developing **real-time AI services**. My goal is to contribute to impactful AI solutions that are not just intelligent, but reliable and scalable.
+
+🌟 Always learning, always building — and always excited about the next breakthrough in AI.
+
+📫 Open to collaborations, research discussions, and innovative AI projects.
